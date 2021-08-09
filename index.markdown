@@ -2,7 +2,8 @@
 layout: home
 ---
 
-<img align="left" width="100" height="100" src="http://mallikasnyder.github.io/files/mallika_snyder_photo.jpg">
+<img align="left" width="50%" height="50%" src="http://mallikasnyder.github.io/files/mallika_snyder_photo.jpg">
+
 
 Hello! I am a PhD student in Demography at UC Berkeley. I study questions at the intersection of computational demography, mortality, and kinship. Much of my recent work explores how population-level mortality is experienced at the individual level as kin loss, and what impacts these experiences may have on surviving relatives. 
 
